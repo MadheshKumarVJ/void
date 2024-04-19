@@ -1,0 +1,16 @@
+Git Basics 
+
+Create a repo
+
+Git clone 
+
+create a file
+
+Write something
+
+Track that file using git add
+
+Write a commit message 
+
+Push the file to repo
+ 
