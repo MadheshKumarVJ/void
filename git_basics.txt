@@ -1,16 +1,17 @@
 Git Basics 
 
-Create a repo
+Create a repo #home select new and name
 
-Git clone 
+Git clone #git clone repositary link code below ssh
 
-create a file
+create a file #create file in ps code
 
-Write something
+Write something 
 
-Track that file using git add
+Track that file using git add #track the file using git command add folder name file name
 
-Write a commit message 
+Write a commit message #commit message using git commit -m "filename"
 
-Push the file to repo
+Push the file to repo #push the commit message using git push origin HEAD
+
  
