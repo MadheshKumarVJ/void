@@ -12,10 +12,10 @@ create a file in vs code
 Write something 
 
 Track that file using git add
-track file using the command git add foldername/filename.Py
+track file using the command git add foldername/filename.py
 
 Write a commit message 
-write a commit message using the command git commit -m'bfncnc'
+write a commit message using the command git commit -m 'Your message'
 
 Push the file to repo
 push the file into the repository using the command git push origin HEAD
