@@ -1,14 +1,14 @@
-class square:
+class Square:
   def __init__(self,side):
     self.side=side
 
-  def square_area(self):
+  def area(self):
     return self.side * self.side
 
-  def square_perimeter(self):
+  def perimeter(self):
     return 4*self.side
 
 num=int(input())
-length=square(num)
-print(length.square_area())
-print(length.square_perimeter())
+square=Square(num)
+print(square.area())
+print(square.perimeter())
